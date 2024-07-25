@@ -1,0 +1,14 @@
+Q P F
+a b
+Z a
+Q
+Z
+F
+Q a Z Q aZ
+Q a a Q aa
+Q b a P e
+P b Z P aZ
+P e Z F Z
+P b a P e
+Q e Z F Z
+P a Z R aZ
